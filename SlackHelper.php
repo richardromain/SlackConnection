@@ -10,7 +10,7 @@ class SlackHelper
 	/**
 	 * @var string Token permettant de s'identifier sur l'API de Slack
 	 */
-	const TOKEN = 'xoxp-7201027952-7201415569-7590424675-2e1d7c';
+	const TOKEN = '';
 
 	/**
 	 * Fonction pour envoyer des messages sur slack.
